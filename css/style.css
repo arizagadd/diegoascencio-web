@@ -582,9 +582,11 @@ a.text-body:hover{
 }
 
 .text-primary{
-  color:#ce4c3e!important;
+  color:#ce4c3e !important;
 }
-
+.text-secondary{
+  color:#017184 !important;
+}
 .text-opacity-white{
   color: rgba(255,255,255,0.8);
 }

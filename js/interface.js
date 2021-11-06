@@ -114,7 +114,7 @@
     }
 
 
-    /* Experience carousel */
+    /* Experience carousel 
    if ($('.experience-carousel').length){
         $('.experience-carousel').owlCarousel({
             loop:false,
@@ -124,7 +124,7 @@
             nav:false,
             dots:true
         });
-    }
+    }*/
 
 
 
