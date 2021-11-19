@@ -359,9 +359,41 @@ label.error{
           transition: all .3s ease-out!important;
 }
 
+.btn-2{
+  font-family: 'swanseabold';
+  position: relative;
+  display: inline-block;
+  border:0.2em solid #237082;
+  border-radius: 0;
+  height: 3.22rem;
+  padding:1.1em 2.4em 1.15em!important;
+  font-size: 0.875rem!important;
+  line-height: 1!important;
+  color:#fff;
+  white-space: nowrap;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color:#237082;
+  border-width: 1px;
+  -webkit-transition: all .3s ease-out!important;
+          transition: all .3s ease-out!important;
+}
+
 .btn:hover,
 .btn:focus,
 .btn:active{
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+  -webkit-box-shadow:none;
+  box-shadow: none;
+  outline: none!important;
+}
+
+.btn-2:hover,
+.btn-2:focus,
+.btn-2:active{
   color: #fff;
   background-color: #000;
   border-color: #000;
